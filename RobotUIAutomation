@@ -1,0 +1,12 @@
+Automate Following Testcases
+
+Testcase 1.
+
+Open website http://a.testaddressbook.com/sign_in
+Login with QE_appzen@gmail.com/appzen123. 
+Navigate to Addresses
+Add New Address 
+
+Testcase 2
+Navigate to Addresses. 
+Get Addresses add then in the CSV file. 
